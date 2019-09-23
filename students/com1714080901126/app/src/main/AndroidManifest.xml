@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="edu.hzuapps.androidlabs.eduhzuappsandroidlabscom1714080901126"
+    package="edu.hzuapps.androidlabs.eduhzuappsandroidlabscom1714080902327"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -18,7 +18,7 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="edu.hzuapps.androidlabs.eduhzuappsandroidlabscom1714080901126.Com1714080901126Activity1"
+            android:name="edu.hzuapps.androidlabs.eduhzuappsandroidlabscom1714080901126.Com1714080902327Activity1"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar" >
             <intent-filter>
@@ -27,7 +27,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="edu.hzuapps.androidlabs.eduhzuappsandroidlabscom1714080901126.Com1714080901126Activity2" />
+        <activity android:name="edu.hzuapps.androidlabs.eduhzuappsandroidlabscom1714080902327.Com1714080902327Activity2" />
 
             android:authorities="com1714080901126.com.android.tools.ir.server.InstantRunContentProvider"
             android:multiprocess="true" />
